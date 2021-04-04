@@ -27,6 +27,7 @@
 #include <xcb/xcb_ewmh.h>
 #include <xcb/xcb_xrm.h>
 #include <X11/keysym.h>
+#include <X11/XF86keysym.h>
 #include "list.h"
 #include "definitions.h"
 #include "types.h"
